@@ -2,3 +2,5 @@ Braun_biostatistics/*
 *.Rhistory
 *.DS_Store
 homework/HW1/*
+.DS_Store
+*.DS_Store
